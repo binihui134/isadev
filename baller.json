@@ -1,0 +1,12 @@
+{
+  "description": "Baller's Portfolio! To be updated)",
+  "repo": "https://github.com/binihui134/portfolio",
+  "owner": {
+    "username": "is-a-dev",
+    "email": "ballerswork@gmail.com"
+  },
+  "record": {
+    "CNAME": "is-a-dev-docs.pages.dev"
+  },
+  "proxied": true
+}
